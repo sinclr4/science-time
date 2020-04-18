@@ -10,6 +10,7 @@ p {
 
 /* Image */
 img {
+  max-width: 100%;
   /* Styles go here */
 }
 
